@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Aritro!
 
-Hi, I'm Aritro (pronouns he/him), a self-taught high school student software developer in Mississauga, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm learning C++, React Native, and Swift.
+Hey, I'm Aritro, a self-taught high school student software developer in Mississauga, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm learning C++, React Native, and Swift.
 
 <p align="center">
     <img align="center" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=axiumin&hide=contribs,stars&count_private=true&show_icons=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&icon_color=93ccfa" />
