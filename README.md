@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hey there, I'm Aritro!
 
-<!--
-**Axiumin/axiumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Aritro (pronouns he/him), a self-taught high school student software developer in Mississauga, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm learning C++, React Native, and Swift.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img align="center" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=axiumin&hide=contribs,stars&count_private=true&show_icons=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&icon_color=93ccfa" />
+ 
+  
+  </p>
+  
+<p align="center">
+   <a href="https://stackexchange.com/users/9950543"><img src="https://stackexchange.com/users/flair/9950543.png?theme=clean" width="208" height="58" alt="profile for Axiumin_ on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Axiumin_ on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  </p>
