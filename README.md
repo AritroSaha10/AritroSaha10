@@ -8,6 +8,6 @@ Hey, I'm Aritro, a self-taught high school student software developer in Mississ
   
   </p>
   
-<p align="center">
-   <a href="https://stackexchange.com/users/9950543"><img src="https://stackexchange.com/users/flair/9950543.png?theme=clean" width="208" height="58" alt="profile for Axiumin_ on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Axiumin_ on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<p align="center">  
+    <a href="https://stackoverflow.com/users/7363404/axiumin"><img src="https://stackoverflow.com/users/flair/7363404.png?theme=clean" width="208" height="58" alt="profile for Axiumin_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Axiumin_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </p>
