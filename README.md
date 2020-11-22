@@ -1,4 +1,6 @@
 ### 👋 Hey there, I'm Aritro!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=axiumin.axiumin)
+
 
 Hey, I'm Aritro, a self-taught high school student software developer in Mississauga, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm learning C++, React Native, and Swift.
 
