@@ -5,7 +5,7 @@
 Hey, I'm Aritro, a self-taught high school student software developer in Mississauga, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm learning C++, React Native, and Swift.
 
 <p align="center">
-    <img align="center" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=axiumin&hide=contribs,stars&count_private=true&show_icons=true" />
+    <img align="center" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=aritrosaha10&hide=contribs,stars&count_private=true&show_icons=true" />
  
   
   </p>
