@@ -23,14 +23,13 @@ Hey, I'm Aritro, a self-taught high school student software developer in Mississ
 </p>
 
 <p align="center">  
-    <a href="https://stackoverflow.com/users/7363404/axiumin?tab=profile"><img src="https://stackoverflow.com/users/flair/7363404.png?theme=clean" width="208" height="58" alt="profile for Axiumin_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Axiumin_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-    
-  </p>
-  
-  <br/>
+    <a align="center" href="https://stackoverflow.com/users/7363404/axiumin?tab=profile"><img src="https://stackoverflow.com/users/flair/7363404.png?theme=clean" width="208" height="58" alt="profile for Axiumin_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Axiumin_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+    <br/>
+    <a href="https://dmoj.ca/user/axiumin"><img src="https://img.shields.io/badge/-DM::OJ-c9c900?style=flat-square" alt="DM::OJ Link" /> </a>
+</p>
   
 <p align="center">
-    <a href="https://dmoj.ca/user/axiumin"><img src="https://img.shields.io/badge/-DM::OJ-c9c900?style=flat-square" alt="DM::OJ Link" /> </a>
+    
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=29025984)
