@@ -19,7 +19,7 @@
 
 
 <p align="left">
-Hey, I'm Aritro, a self-taught high school student software developer in Mississauga, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm learning C++, React Native, and Swift. I'm also focusing on Competitive Programming.
+Hey, I'm Aritro, a high school student and a self-taught software developer in Toronto, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm focusing on machine learning using TensorFlow and robotics code!
 </p>
 
 <p align="center">  
