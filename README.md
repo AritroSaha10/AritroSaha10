@@ -31,5 +31,3 @@ Hey, I'm Aritro, a high school student and a self-taught software developer in T
 <p align="center">
     
 </p>
-
-![](https://hit.yhype.me/github/profile?user_id=29025984)
