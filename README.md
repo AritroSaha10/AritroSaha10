@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Aritro!
 
 <p align="right">
-    <img align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=aritrosaha10&hide=contribs,stars&count_private=true&show_icons=true" />
+    <img align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=aritrosaha10&hide=stars&count_private=true&show_icons=true" />
   </p>
   
 <p align="left">
