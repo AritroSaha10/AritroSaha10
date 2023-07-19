@@ -1,10 +1,6 @@
-### 👋 Hey there, I'm Aritro!
+<h3 align="center">👋 Hey there, I'm Aritro!</h3>
 
-<p align="right">
-    <img align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=aritrosaha10&hide=stars&count_private=true&show_icons=true" />
-  </p>
-  
-<p align="left">
+ <div align="center">
     <img src="https://img.shields.io/badge/Python-306998?&logo=Python&logoColor=FFD43B&style=for-the-badge" />
     <img src="https://img.shields.io/badge/C%2B%2B%0A-00599C?logo=c%2B%2B&style=for-the-badge" />
     <img src="https://img.shields.io/badge/C%23-650094?logo=C-Sharp&style=for-the-badge" />
@@ -14,11 +10,11 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge" />
     <img src="https://img.shields.io/badge/react-00b5e7?&logo=react&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&style=for-the-badge" />
-</p>
+</div>
 
 
 
-<p align="left">
+<p align="center">
 Hey, I'm Aritro, a high school student and a self-taught software developer in Toronto, Ontario. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from embedded code to web apps. As of now, I'm focusing on machine learning using TensorFlow and robotics code!
 </p>
 
