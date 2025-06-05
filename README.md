@@ -13,7 +13,7 @@
 
 
 <p align="center">
-Hey, I'm Aritro! I'm a Computer Engineering student in my 1A term at the University of Waterloo, and a self-taught software developer from the Greater Toronto Area. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from <a href="https://github.com/Tech-FraserSAC/frasertickets">web apps</a> to <a href="https://github.com/AritroSaha10/sumobot-tej4m0">embedded code</a>. As of now, I'm trying to delve further into the embedded space, specifically learning more about STM32 microcontrollers!
+Hey, I'm Aritro! I'm a Computer Engineering student in my 1B term at the University of Waterloo, and a software developer from the Greater Toronto Area. I enjoy experimenting with new technologies, which is why my GitHub page includes a broad array of projects, from <a href="https://github.com/Tech-FraserSAC/frasertickets">web apps</a> to <a href="https://github.com/AritroSaha10/sumobot-tej4m0">embedded code</a>. As of now, I'm trying to delve further into the embedded space, specifically learning more about STM32 microcontrollers!
 </p>
 
 <p align="center">  
